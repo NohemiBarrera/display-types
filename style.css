@@ -1,0 +1,9 @@
+p {
+	display: block;
+	background-color: fuchsia;
+	height: 65px;
+	margin: 0px;
+}
+p.parrafo{
+	background-color: yellow;
+}
