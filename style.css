@@ -1,8 +1,9 @@
 p {
 	display: block;
 	background-color: fuchsia;
+	width: 200px;
 	height: 65px;
-	margin: 0px;
+	margin: 20px;
 }
 p.parrafo{
 	background-color: yellow;
