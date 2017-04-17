@@ -1,19 +1,15 @@
 p {
 	display: inline-block;
 	background-color: fuchsia;
-	width: 50px;
+	width: 200px;
 	height: 30px;
 	margin: 5px;
-	padding-top: 10px;
-}
-p.parrafo1{
-	background-color: yellow;
-	width: 100px;
-	height: 30px;
+	padding-top: 5px;
+	padding-bottom: 30px;
 }
 
 p.parrafo{
 	background-color: yellow;
-	width: 160px;
+	width: 200px;
 	height: 30px;
 }
