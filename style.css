@@ -1,15 +1,28 @@
-p {
+div {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	border:2px solid black;
+	margin: 10px;
+	display: block;
+}
+.div-padre{
+	width: 381px;
+	height: 120px;
+	background-color: yellow;
+	padding: 2px;
+	margin: 10px;
 	display: inline-block;
-	background-color: fuchsia;
-	width: 200px;
-	height: 30px;
-	margin: 5px;
-	padding-top: 5px;
-	padding-bottom: 30px;
 }
 
-p.parrafo{
-	background-color: yellow;
-	width: 200px;
-	height: 30px;
+.div-padre div{
+	display: inline-block;
+}
+.miau{
+	 position: absolute;
+	 top: 272px;
+	 bottom: 0px;
+	 right: 0px;
+	 left: 151px;
+
 }
